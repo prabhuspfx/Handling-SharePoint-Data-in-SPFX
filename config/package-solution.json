@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "staticmockdata-client-side-solution",
+    "id": "f10c08f6-8d3a-4ee5-a1bc-73600d7de297",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/staticmockdata.sppkg"
+  }
+}
